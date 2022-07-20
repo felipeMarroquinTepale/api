@@ -38,6 +38,12 @@ public class BlogMockedData {
         blogs.add(new Blog(5, "7 ways the Assistant can help you get ready for Turkey Day",
                 "Thanksgiving is just a few days away and, as always, your Google Assistant is ready to help. " +
                         "So while the turkey cooks and the family gathers, here are some questions to ask your Assistant."));
+
+        //Se crea otro blog
+        blogs.add(new Blog(6, "7 ways the Assistant can help you get ready for Turkey Day",
+                "Thanksgiving is just a few days away and, as always, your Google Assistant is ready to help. " +
+                        "So while the turkey cooks and the family gathers, here are some questions to ask your Assistant."));
+
     }
 
     // return all blogs
